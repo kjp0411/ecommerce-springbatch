@@ -15,7 +15,7 @@ public class ProductGenerator {
   private static final Random RANDOM = new Random();
 
   public static void main(String[] args) {
-    String csvFilePath = "data/random_product.csv";
+    String csvFilePath = "data/random_products.csv";
     int recordCount = 10_000_000;
 
     try (FileWriter fileWriter = new FileWriter(csvFilePath);

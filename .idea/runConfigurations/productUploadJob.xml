@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="productUploadJob" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="fastcampus-ecommerce-springbatch.ecommerce-batch.main" />
+    <option name="PROGRAM_PARAMETERS" value="--spring.boot.job.names=productUploadjob inputFilePath=data/random_products.csv,java.lang.String,false" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="fastcampus.ecommerce.batch.BatchApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="fastcampus.ecommerce.batch.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

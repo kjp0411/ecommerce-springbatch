@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecommerce-batch/fastcampus-ecommerce-springbatch.ecommerce-batch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ecommerce-batch/fastcampus-ecommerce-springbatch.ecommerce-batch.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecommerce-batch/fastcampus-ecommerce-springbatch.ecommerce-batch.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ecommerce-batch/fastcampus-ecommerce-springbatch.ecommerce-batch.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fastcampus-ecommerce-springbatch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fastcampus-ecommerce-springbatch.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fastcampus-ecommerce-springbatch.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fastcampus-ecommerce-springbatch.test.iml" />
     </modules>
